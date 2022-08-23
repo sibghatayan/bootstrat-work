@@ -1,0 +1,54 @@
+.header{
+
+    background-image: linear-gradient(90deg, #FFF6F4, #FFF6F4);
+}
+.banner{
+    /* margin-top: -8%; */
+    height: auto;
+}
+.common-col{
+    margin-top: 11%;
+}
+.fw-bold{
+    font-size: 50px;
+}
+.banner-par{
+    font-size: 20px;
+}
+.col-lg-7{
+   background-size: cover;
+}
+.col-lg-3{
+    background-size: contain;
+}
+.pic-imgs{
+    width: 93%;
+}
+.layout-section{
+    background-image: linear-gradient(90deg, #FFF6F4, #FFF6F4);
+}
+
+.card{
+    width: 100%;
+    height: 100%;
+    padding: 20%;
+    border: none;
+    border-radius: 12px;
+    align-items: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.card-outer{
+    /* width: 50%; */
+    height: auto;
+}
+.slider-section{
+    background: linear-gradient(90deg, #FFF6F4, #FFF6F4);
+    background-repeat: re3peat-x;
+    background-size: auto;
+    position: relative;
+    z-index: 1;
+    
+}
+.banner-part2{
+    background-image: linear-gradient(90deg, #FFF6F4, #FFF6F4);
+}
